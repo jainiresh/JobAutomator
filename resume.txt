@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px;
+  width: 700px;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+  border: 1px solid #ccc;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+  <h1>JAI NIRESH J</h1>
+  <h2>Software Developer Trainee/Intern</h2>
+  <h3>Microcosmworks LLP</h3>
+
+  <p>Dear Hiring Manager,</p>
+
+  <p>I am writing to express my strong interest in the Software Developer Trainee/Intern position at Microcosmworks LLP. As a highly motivated and experienced software engineer with 2 years of experience at Mr. Cooper as an SDE-1, I am confident that I possess the skills and drive to excel in this role and contribute significantly to your team.</p>
+
+  <p>My expertise in Node.js, Spring Boot, Java, and MongoDB aligns well with the technical requirements outlined in the job description. I have a proven track record of successfully developing and implementing web applications, utilizing my strong problem-solving skills and passion for web development. My proficiency in unit testing and REST API development further strengthens my ability to deliver high-quality and efficient software solutions.</p>
+
+  <p>While my experience predominantly lies within Java and Spring Boot frameworks, I am a quick learner and eager to expand my knowledge of Python and frontend technologies like React and React Native. I am confident that I can rapidly adapt and contribute to your team's projects using these technologies.</p>
+
+  <p>Furthermore, my ability to effectively communicate and collaborate with team members, coupled with my dedication to exceeding client expectations, makes me a valuable asset to any organization. I am eager to learn from experienced professionals at Microcosmworks LLP and contribute to the company's growth.</p>
+
+  <p>Thank you for your time and consideration. I am excited about the opportunity to join your team and contribute to innovative projects.</p>
+
+  <p>Sincerely,</p>
+  <p>JAI NIRESH J</p>
+
+  <table>
+    <tr>
+      <th>Experience</th>
+      <td>SDE - 1 | Mr. Cooper | 2 years</td>
+    </tr>
+    <tr>
+      <th>Education</th>
+      <td>Bachelor of Engineering, Computer Science and Engineering, Thiagarajar College of Engineering</td>
+    </tr>
+    <tr>
+      <th>Skills</th>
+      <td>Node.js, Spring Boot, Java, Problem Solving, Web Development, MongoDB</td>
+    </tr>
+  </table>
+</div>
+
+</body>
+</html>
