@@ -4,7 +4,7 @@ import cors from 'cors';
 import axios from 'axios';
 import bodyParser from "body-parser";
 import { generateResumeContent, getAiSuggestedFolderId_GeminiService } from "./service/geminiService.js";
-import { createDraft, getFoldersData } from "./service/nylasService.js";
+import { createDraft } from "./service/nylasService.js";
 import fs from 'fs';
 import ConvertAPI from "convertapi";
 import path, { dirname, resolve } from "path";
